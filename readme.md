@@ -1,3 +1,3 @@
-Salut la plan�te ! 
+﻿Salut la planète ! 
 
 test modification 
